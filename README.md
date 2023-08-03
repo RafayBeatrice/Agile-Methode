@@ -151,3 +151,65 @@ When a registered user writes the wrong password three times, then he can the �
 
 Create a page for a new password, where a user needs to write his email. 
 On his email will receive a link for a new password. On this link will need to write a new password and press the “ Done “ button.
+
+## **Create quantity input**
+
+ **1. Description**
+ 
+As a customer, I want to buy more than one product so I want to choose how many products I want to buy.
+
+**Acceptance Criteria**
+
+Given that I am a customer, when I click on quantity input then can select how many product I want to buy.
+
+**2. Create a quantity input**
+
+Create a quantity input above the " Add to cart" button. Once pressed, you can select how many products you want.
+
+**************************************************************************************************************
+
+## **5. Create maximum limits**
+
+**1. Description**
+
+As a customer, I want to know what is the maximum product I can select for the first order.
+
+**Acceptance Criteria**
+
+Given that I am a customer, when I want to buy more products I want to know which is the maximum product I can select.
+
+**2. Create a maximum select notification**
+
+When you press the "+" button, then you will see the maximum selection, then you will be stopped to press then you can see the This is the maximum" message.
+
+*********************************************************************************************************
+
+## **6. Add to cart**
+
+**1.Description**
+
+As a customer, I want to buy some products so I want to add it to my cart.
+
+**Acceptance Criteria**
+
+Given I am a customer, when I see a product which I like then I can buy that for this moment.
+
+**2. Create an " Add to cart" button**
+
+Create an " Add to cart" button on all product pages near the price. Once pressed, the button should add the current product to the user's cart.
+
+*******************************************************
+
+## **7. Create size input**
+
+**1. Description**
+
+As a customer, I want to buy a product I like, so that I want to know if the page has my size to buy.
+
+**Acceptance Criteria**
+
+Given I am a customer, when I like a product I want to know if existed in my size, then I will use the input to see.
+
+**2. Add size input**
+
+Add size input above quantity input, so client to can select which size he needs and want to buy. Once pressed, you can select which number of shoes the client need.
